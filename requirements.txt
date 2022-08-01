@@ -1,0 +1,5 @@
+speechrecognition
+pyttsx3
+wolframalpha
+wikipedia
+django
